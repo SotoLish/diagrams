@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T12:18:05.313Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="R3w7oir1Rr_iC7U6U_Sf" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T12:25:03.282Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yjfsL58M6oEivwy6pLRi" version="14.9.8" type="github" pages="2">
   <diagram id="oiV08wRDTRCFy15OqytV" name="Page-1">
     <mxGraphModel dx="942" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,105 @@
         </mxCell>
         <mxCell id="uAQ2mNjvUwepVeP2NFKL-30" value="学生积分的管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="269" y="495" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3Bh-lF-3emFQRgVDbQ4a" name="Page-2">
+    <mxGraphModel dx="942" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rbgn_vT0f06PPxG1StTC-0" />
+        <mxCell id="rbgn_vT0f06PPxG1StTC-1" parent="rbgn_vT0f06PPxG1StTC-0" />
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1" source="-gxkwIReDW0bt9_yIGGE-1" target="-gxkwIReDW0bt9_yIGGE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-1" value="&lt;span&gt;教师端&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="70" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1" source="-gxkwIReDW0bt9_yIGGE-4" target="-gxkwIReDW0bt9_yIGGE-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1" source="-gxkwIReDW0bt9_yIGGE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-4" value="查看班级积分概况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="62.5" y="130" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-8" value="查看最高积分、最低积分、平均积分、平均积分年级排名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="240" y="90" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-9" value="查看班级积分平均分综合图、学生积分等级分布图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="240" y="170" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-12" value="管理学生积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="62.5" y="315" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-13" value="查看学生详细积分表，可按姓名、学号、总积分、积分排名、 各积分类别进行排序显示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="240" y="240" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-14" value="增加、删除学生积分项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="240" y="310" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-15" value="" style="endArrow=none;html=1;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="390" as="sourcePoint" />
+            <mxPoint x="200" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="259.5" as="sourcePoint" />
+            <mxPoint x="240" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-21" value="查看单个学生积分详情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="240" y="380" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-26" value="" style="endArrow=none;html=1;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="185" as="sourcePoint" />
+            <mxPoint x="200" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-27" value="" style="endArrow=classic;html=1;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="184.5" as="sourcePoint" />
+            <mxPoint x="240" y="184.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-28" value="" style="endArrow=classic;html=1;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="104.5" as="sourcePoint" />
+            <mxPoint x="240" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="390.5" as="sourcePoint" />
+            <mxPoint x="240" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-31" value="查看单个学生积分详情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry x="240" y="380" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gxkwIReDW0bt9_yIGGE-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rbgn_vT0f06PPxG1StTC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="329.5" as="targetPoint" />
+            <mxPoint x="167.5" y="329.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
