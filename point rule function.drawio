@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T11:46:06.984Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.9.8" etag="pjM_BqujsCmBx2wFl_5Q" type="github"><diagram id="oiV08wRDTRCFy15OqytV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-24T12:08:58.367Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nVfNjC5G8bHLGY2Tbe4G" version="14.9.8" type="github">
+  <diagram id="oiV08wRDTRCFy15OqytV" name="Page-1">
+    <mxGraphModel dx="942" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-2" target="uAQ2mNjvUwepVeP2NFKL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-2" value="&lt;span&gt;管理员端&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-3" target="uAQ2mNjvUwepVeP2NFKL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-3" target="uAQ2mNjvUwepVeP2NFKL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-3" value="勋章设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="130" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-4" target="uAQ2mNjvUwepVeP2NFKL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-4" target="uAQ2mNjvUwepVeP2NFKL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-4" value="积分项目设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="210" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-5" value="设置勋章图片，名称，图片，规则描述" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="269" y="130" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-8" value="设置积分对应的项目。默认项目场景类别为：荣誉、纪律、考勤、课堂表现、作业、自学、成绩、集体活动、卫生。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="205" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-12" target="uAQ2mNjvUwepVeP2NFKL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-12" value="项目场景设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="315" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-13" value="设置项目下的场景。在每个场景类别下新增、删除、编辑积分项目。积分项目包括：项目名称、加减分数、给分/扣分规则、备注。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="275" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-14" value="场景应用的加减分规则，包括：频率名称，频率类型，计算次数。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="sourcePoint" />
+            <mxPoint x="200" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-24" target="uAQ2mNjvUwepVeP2NFKL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-24" target="uAQ2mNjvUwepVeP2NFKL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-24" value="设置积分等级规则置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="410" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-26" value="设置各积分区间对应的积分等级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="269" y="415" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAQ2mNjvUwepVeP2NFKL-29" target="uAQ2mNjvUwepVeP2NFKL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-29" value="管理学生积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="490" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uAQ2mNjvUwepVeP2NFKL-30" value="学生积分的管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="269" y="495" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
