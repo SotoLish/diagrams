@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T09:40:40.990Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZO1vGpzIET9ThYDn9cZz" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T09:41:34.334Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-7EySwoHvVB43N_PpUq8" version="14.9.8" type="github">
   <diagram id="Lhr5t80YgjZlaDJlnx9T" name="Page-1">
     <mxGraphModel dx="942" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="A1X3SZEFAVVzTtYJUAlZ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="101.06" y="120" width="398.94" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-1" value="勋章管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-1" value="勋章管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-2" value="积分项目管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-2" value="积分项目管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-4" value="项目场景管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-4" value="项目场景管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1X3SZEFAVVzTtYJUAlZ-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.85;dx=23.62;notch=0;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=-225;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="A1X3SZEFAVVzTtYJUAlZ-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.85;dx=23.62;notch=0;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="307.38" y="202.5" width="62.62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-9" value="积分等级规则管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-9" value="积分等级规则管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="130" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1X3SZEFAVVzTtYJUAlZ-10" value="积分记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="A1X3SZEFAVVzTtYJUAlZ-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.85;dx=23.62;notch=0;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="382.62" y="360" width="62.62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-16" value="积分展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="A1X3SZEFAVVzTtYJUAlZ-16" value="积分展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="354" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1X3SZEFAVVzTtYJUAlZ-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.85;dx=23.62;notch=0;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=45;" vertex="1" parent="1">
